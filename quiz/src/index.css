@@ -4,8 +4,8 @@
   }
   body {
     height: 80vh;
-    background-image: linear-gradient(#d8c7ff, #19006c);
-    /* background-image: url("/background.jpg"); */
+    /* background-image: linear-gradient(#d8c7ff, #19006c); */
+    background-image: url("./assets/background.jpg");
     font-family: "poppins";
   }
   
