@@ -4,8 +4,8 @@
   }
   body {
     height: 100vh;
-    /* background-image: linear-gradient(#d8c7ff, #19006c); */
-    background-image: url("/quiz/src/assets/background.jpg");
+    background-image: linear-gradient(#d8c7ff, #19006c);
+    /* background-image: url("/background.jpg"); */
     font-family: "poppins";
   }
   
